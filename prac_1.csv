@@ -1,0 +1,257 @@
+Item_id,Name,Place,Item_type,Carbohydrates,Fats,Proteins,Calories
+1,Sarva Pindi,Hyderabad,Breakfast,65,9,7,112.5
+2,Atukulu,Hyderabad,Breakfast,77.3,1.2,6.6,100
+3,Irani Chai with Osmania Biscuits,Hyderabad,Breakfast,52,33,7,555
+4,Garelu,Hyderabad,Breakfast,34,11,4,190
+5,Varipindi Uppindi,Hyderabad,Breakfast,48.4,6.9,5.1,277.6
+6,Upma,Hyderabad,Breakfast,66.6,8,11.6,389.5
+7,Veg Biryani,Hyderabad,Lunch,20,15,9,330
+8,Paneer Biryani,Hyderabad,Lunch,42.7,6.9,15,300.5
+9,Egg Biryani,Hyderabad,Lunch,47,15.6,17.3,204
+10,Chicken Biryani,Hyderabad,Lunch,48,17,19,274
+11,Mutton Biryani,Hyderabad,Lunch,38,18.5,19,321
+12,Fish Biryani,Hyderabad,Lunch,30,10,19,296
+13,Veg Fried Rice,Hyderabad,Dinner,26,10,7,218
+14,Egg Fried Rice,Hyderabad,Dinner,23,12,12,333
+15,Chicken Fried Rice,Hyderabad,Dinner,42,12,12,329
+16,Hyderabadi Haleem,Hyderabad,Dinner,8,6,8,109
+17,Seekh kebab,Hyderabad,Dinner,9,18,20,325
+18,Mirchi ka salan,Hyderabad,Dinner,5,18,2,193
+19,Idli,Chennai,Breakfast,15,0,1,69
+20,Dosa,Chennai,Breakfast,29,4,4,168
+21,Vada,Chennai,Breakfast,12,6,2,97
+22,Pongal,Chennai,Breakfast,23,7,5,200
+23,Paniyaram,Chennai,Breakfast,31,0,44,145
+24,Appam,Chennai,Breakfast,20,10,0,120
+25,Bisi bele bhath,Chennai,Lunch,33,5,8,199
+26,Curd rice,Chennai,Lunch,38,3,6,207
+27,Coconut rice,Chennai,Lunch,24,9,3,184
+28,Mushroom curry,Chennai,Lunch,16,11,5,197
+29,Crab soup,Chennai,Lunch,5,30,11,337
+30,Egg aviyal,Chennai,Lunch,8,2,2,50
+31,Idiyappam,Chennai,Dinner,30,0,2,138
+32,Brinji Soru,Chennai,Dinner,66,0,9,300
+33,Pepper rice,Chennai,Dinner,37,3,4,190
+34,Pumpkin lentil curry,Chennai,Dinner,65,12,13,413
+35,Pepper corns curry,Chennai,Dinner,11,2,3,172
+36,Mango pudding,Chennai,Dinner,20,0,5,160
+37,Vada Pav,Mumbai,Breakfast,37,9,7,263
+38,MUMBAI SPECIAL CHILLI CHEESE TOAST,Mumbai,Breakfast,16,17,16,275
+39,RAGDA PATTY,Mumbai,Breakfast,47,13,8,333
+40,SAMOSA,Mumbai,Breakfast,32,17,4,308
+41,KANDE POHE,Mumbai,Breakfast,86,5,0,387
+42,UPMA,Mumbai,Breakfast,66.6,8,11.6,389.5
+43,PANEER TIKKA,Mumbai,Lunch,5,18,7,210
+44,CHICKEN MALAI KEBAB,Mumbai,Lunch,4,7,46,270
+45,MUMBAI SPECIAL PAV BHAJI,Mumbai,Lunch,16,13,4,196
+46,DAL TADKA,Mumbai,Lunch,18,17,6,190
+47,akuri on toast,Mumbai,Lunch,4,0,1,23
+48,Baida roti,Mumbai,Lunch,20,17,14,294
+49,PANEER TIKKA MASALA,Mumbai,Dinner,7,14,8,201
+50,MISSAL PAV,Mumbai,Dinner,37,9,8,270
+51,VEG KOLHAPURI,Mumbai,Dinner,18,10,7,188
+52,KOLHAPURI MUTTON CURRY,Mumbai,Dinner,20,17,13,271
+53,Zhunka bhakar,Mumbai,Dinner,11,10,4,170
+54,Fish and prawn curry,Mumbai,Dinner,32,8,34,332
+55,Kadhi Kachori,Delhi,Breakfast,52,23,0,466
+56,Kalmi Vada,Delhi,Breakfast,19,1,5,100
+57,Besan Chilla,Delhi,Breakfast,35,8,13,232
+58,Mirchi Bada,Delhi,Breakfast,17,6,5,142
+59,Bajra Roti,Delhi,Breakfast,13,2,3,80
+60,Rabri,Delhi,Breakfast,23,18,7,278
+61,Laal maas,Delhi,Lunch,17,37,35,541
+62,Baati,Delhi,Lunch,19,3,4,116
+63,Kadhi,Delhi,Lunch,0,0,0,160
+64,Ghevar,Delhi,Lunch,68,21,4,477
+65,Bakarkhani,Delhi,Lunch,11,14,1,170
+66,Baklava,Delhi,Lunch,29,23,5,334
+67,Gatta curry,Delhi,Dinner,25,7,10,195
+68,Mohan Maas,Delhi,Dinner,102,64,74,1144
+69,Keema Matar,Delhi,Dinner,16,10,37,303
+70,Shahi paneer,Delhi,Dinner,12,25,12,310
+71,Pasanda,Delhi,Dinner,25,32,4,425
+72,Khichra,Delhi,Dinner,32,2,2,177
+73,Chhir Chot,Jammu & Kashmir,Breakfast,24,5,2,147
+74,Kahwa,Jammu & Kashmir,Breakfast,61,9,22,384
+75,Girda,Jammu & Kashmir,Breakfast,65.37,5.85,11.43,310
+76,Lavasa Masala Tchot,Jammu & Kashmir,Breakfast,30,7,9,315
+77,Bakarkhani,Jammu & Kashmir,Breakfast,23,20,4,282
+78,Chochwor,Jammu & Kashmir,Breakfast,32,0,0,180
+79,Mutton Rogan Josh,Jammu & Kashmir,Lunch,4,14,19,372
+80,Nadru Yakhni,Jammu & Kashmir,Lunch,29,6,22,260
+81,Chicken Pulao,Jammu & Kashmir,Lunch,45,4,26,326
+82,Yakhni Lamb Curry,Jammu & Kashmir,Lunch,29.3,19,16,358
+83,Kashmiri Rajma,Jammu & Kashmir,Lunch,61,1,23,346
+84,Roth,Jammu & Kashmir,Lunch,0,9,6,100
+85,Rogan Josh,Jammu & Kashmir,Dinner,4,11,33,248
+86,Modur Pulao,Jammu & Kashmir,Dinner,54,12,5,348
+87,Shab Deg,Jammu & Kashmir,Dinner,32,100,58.5,1260
+88,Matschgand,Jammu & Kashmir,Dinner,48,12,11,165
+89,Momos,Jammu & Kashmir,Dinner,35,3,5,180
+90,Dum Aloo,Jammu & Kashmir,Dinner,34,5,5,164
+91,Choley Bhature,Punjab,Breakfast,30,11,6,230
+92,Tandoori Aloo Paratha,Punjab,Breakfast,46,11,6,300
+93,Besan Ka Cheela,Punjab,Breakfast,36,2,18,143
+94,Dahi Bhalle,Punjab,Breakfast,20,8,5,175
+95,Aloo Poori,Punjab,Breakfast,12,10,2,141
+96,Amritsari Kulcha,Punjab,Breakfast,31,6,6,200
+97,Sarson Ka Saag Aur Makki Ki Roti,Punjab,Lunch,33,8,7,213
+98,Dal Makhani,Punjab,Lunch,39,24,16,427
+99,Machchli Amritsari,Punjab,Lunch,31,6,6,200
+100,Dal Tadka,Punjab,Lunch,18,17,6,190
+101,Pindi Channe,Punjab,Lunch,20,8,0,185
+102,Punjabi Lemon Chicken,Punjab,Lunch,5,16,34,300
+103,Butter Chicken,Punjab,Dinner,40,24,43,497
+104,Tandoori Chicken,Punjab,Dinner,36,6,19,270
+105,Masala Channa,Punjab,Dinner,33,2,7,180
+106,Murgh Malaiwala,Punjab,Dinner,14,13,46,371
+107,Paneer Tikka,Punjab,Dinner,5,18,7,210
+108,Punjabi Kadhi Pakodi,Punjab,Dinner,23,12,12,250
+109,Spinach Foxtail Millet Dhokla,Gujarat,Breakfast,63.2,4,11.2,351
+110,Dhokla Sandwich,Gujarat,Breakfast,22,5,4,150
+111,Pudina Sooji & Oats Dhokla,Gujarat,Breakfast,42,3,5,215
+112,Khaman Dhokla,Gujarat,Breakfast,14,12,4,160
+113,Amaranth Sooji & Oats Dhokla,Gujarat,Breakfast,16,7,6,152
+114,Gujarati Khaman Dhokla Recipe,Gujarat,Breakfast,14,10,4,160
+115,Gujarati thali,Gujarat,Lunch,136,52,22,1100
+116,Farsan,Gujarat,Lunch,45,36,14,494
+117,Dabeli,Gujarat,Lunch,30,8,6,197
+118,Khakra,Gujarat,Lunch,78,18,12,477
+119,Juvar rotla,Gujarat,Lunch,35,1,4,165
+120,Nagli rotla,Gujarat,Lunch,21.6,1.6,3.7,116
+121,Khaman Dhokla,Gujarat,Dinner,14,12,4,160
+122,Bhatia Kadhi,Gujarat,Dinner,30,14,12,140
+123,Dabeli,Gujarat,Dinner,30,8,6,197
+124,Dal dhokli,Gujarat,Dinner,49,11,11,366
+125,Bhaat na poodla,Gujarat,Dinner,69,27,13,571
+126,Khichdi pakoda,Gujarat,Dinner,6.6,6,1.7,87
+127,PANTA BHAAT,Kolkata,Breakfast,57,10,10,358
+128,KORAISHUTIR KOCHURI,Kolkata,Breakfast,22,0,4,110
+129,LUCHI AND ALUR DOM,Kolkata,Breakfast,35,7,5,212
+130,MOGLAI POROTA,Kolkata,Breakfast,39,13,6,299
+131,Chap,Kolkata,Breakfast,70,26,33,646
+132,Dim Pauruti,Kolkata,Breakfast,88,3,9,388
+133,MANCHER JHOL,Kolkata,Lunch,0,0,0,150
+134,KOLKATA BIRYANI,Kolkata,Lunch,59,22,19,503
+135,KOSHA MANGSHO,Kolkata,Lunch,31,17,3,287
+136,ALUR TORKARI?,Kolkata,Lunch,31,9,8,233
+137,SHUKTO,Kolkata,Lunch,37,23,15,409
+138,CHELO KEBAB,Kolkata,Lunch,4,27,19,338
+139,DHOKAR DALNA,Kolkata,Dinner,54,15,17,406
+140,BEGUNI,Kolkata,Dinner,27,14,9,200
+141,JHURI JHURI ALU BHAJA,Kolkata,Dinner,13,27.25,1.3,296.78
+142,BASANTI PULAV,Kolkata,Dinner,54,4,5,281
+143,BIRYANI,Kolkata,Dinner,56,12,11,368
+144,CHINGARI MANCHER MALAI CURRY,Kolkata,Dinner,6,21,33,336
+145,Vattayappam,Kerala,Breakfast,16,2,1,98
+146,Palappam,Kerala,Breakfast,17,2,1,94
+147,Rava Uppumavu,Kerala,Breakfast,16,1,2,85
+148,Ragi Puttu,Kerala,Breakfast,24,1,4,166
+149,Paal Kozhukatta,Kerala,Breakfast,54,2,5,250
+150,Chembu Kuzhachathu,Kerala,Breakfast,35,0,1,142
+151,Thoran,Kerala,Lunch,11,4,3,85
+152,Pulissery,Kerala,Lunch,7,6,3,90
+153,Parippu Curry,Kerala,Lunch,13,7,4,127
+154,Olan,Kerala,Lunch,10,11,4,161
+155,Mulaka Pachadi,Kerala,Lunch,5,7,1,90
+156,Mambazha Pradhaman,Kerala,Lunch,20,8,4,158
+157,Kappa Puzhukku,Kerala,Dinner,94,1,2,390
+158,Kozhi Varattiyathu,Kerala,Dinner,57,25,12,520
+159,Karimeen Varuthathu,Kerala,Dinner,2,5,12,100
+160,Mathanga Payaru Erissery,Kerala,Dinner,14,6,2,107
+161,Moru Kachiyathu,Kerala,Dinner,20,8,10,240
+162,Ularthiyathu,Kerala,Dinner,2,11,23,197
+163,Green gram dosa,Andhra Pradesh,Breakfast,14.2,0.3,5.4,86.4
+164,Puri,Andhra Pradesh,Breakfast,17,3,3,107
+165,Fried idly,Andhra Pradesh,Breakfast,39,0,6,172
+166,Gunta paddu,Andhra Pradesh,Breakfast,30,5,5,165
+167,Ravva dosa,Andhra Pradesh,Breakfast,29,4,4,168
+168,Semiya upma,Andhra Pradesh,Breakfast,35,4,6,188
+169,Spicy pongal,Andhra Pradesh,Breakfast,42,4,6,242
+170,Andhra style vada,Andhra Pradesh,Breakfast,43,11,14,334
+171,Mysore bonda,Andhra Pradesh,Breakfast,16,6,2,120
+172,Kodi pulav,Andhra Pradesh,Lunch,29,7,0,214
+173,Royyala yepudu,Andhra Pradesh,Lunch,9,8,18,186
+174,Chepala pulusu,Andhra Pradesh,Lunch,10,3,37,230
+175,Guttu vankaya kura,Andhra Pradesh,Lunch,14,15,5,190
+176,Gongura pachadi,Andhra Pradesh,Lunch,5,7,1,90
+177,Ulavacharu,Andhra Pradesh,Lunch,14,3,18,259
+178,Pulihora,Andhra Pradesh,Dinner,51,13,7,344
+179,Roti,Andhra Pradesh,Dinner,46,9,8,299
+180,Curd rice,Andhra Pradesh,Dinner,41,6,17,300
+181,Punugulu,Andhra Pradesh,Dinner,30,5,5,160
+182,Upma,Andhra Pradesh,Dinner,46,4,8,250
+183,Rice with curries,Andhra Pradesh,Dinner,51,24,21,500
+184,Idli sambar,Andaman & Nicobar,Breakfast,61,2,12,304
+185,Dosa,Andaman & Nicobar,Breakfast,76,28,28,600
+186,Uttapam,Andaman & Nicobar,Breakfast,24,7,3,172
+187,Clear soup,Andaman & Nicobar,Breakfast,4,1,0,30
+188,Sweetcorn soup,Andaman & Nicobar,Breakfast,16,17,4,230
+189,Prawn soup,Andaman & Nicobar,Breakfast,50,2,19,294
+190,Coconut Prawn Curry,Andaman & Nicobar,Lunch,8,8,0,163
+191,Chicken Tikka Masala,Andaman & Nicobar,Lunch,8,12,46,324
+192,Chilli Curry,Andaman & Nicobar,Lunch,16,14,42,360
+193,Amritsari Kulcha,Andaman & Nicobar,Lunch,31,6,6,200
+194,Macher Jhol,Andaman & Nicobar,Lunch,22,7,14,205
+195,Squid Fry,Andaman & Nicobar,Lunch,20,2,12,150
+196,Fish Curry,Andaman & Nicobar,Dinner,60,15,36,307
+197,Tandoori Fish,Andaman & Nicobar,Dinner,121,17,29,745
+198,Grilled Lobsters,Andaman & Nicobar,Dinner,24,13,2,220
+199,Khadi fry,Andaman & Nicobar,Dinner,29,11,3,230
+200,Chicken tikka masala,Andaman & Nicobar,Dinner,31,8,17,270
+201,Chilly curry,Andaman & Nicobar,Dinner,16,15,16,254
+202,Poita bhat,Assam,Breakfast,35,66,50,166
+203,Kholasapori,Assam,Breakfast,46,240,27,313
+204,Tekeli pitha,Assam,Breakfast,22,8,5,185
+205,Paani pitha,Assam,Breakfast,30,5,16,498
+206,Seera Doi,Assam,Breakfast,42,20,4,360
+207,Kumol Saul,Assam,Breakfast,77,14,12,458
+208,Hanhor Mangkho,Assam,Lunch,28,4,2,140
+209,Maasor Tenga,Assam,Lunch,12,2.8,37.2,217
+210,Aloo Pitika,Assam,Lunch,17.4,2.3,1.6,98
+211,Xaak aru bhaji,Assam,Lunch,84,0,0,350
+212,Khar,Assam,Lunch,66,2,8,310
+213,Pura maas mankho,Assam,Lunch,0,32,26,392
+214,Haah Joha Kumura,Assam,Dinner,16,17,2,226
+215,Patot diya maas,Assam,Dinner,8,10,8,136
+216,Til Diya Murgi,Assam,Dinner,18,29,103,752
+217,Baah Gaaj Bhoot Jolokia di Gahorie,Assam,Dinner,2,0,1,24
+218,Koldil Murgi,Assam,Dinner,11,26,25,411
+219,Dhekia Bhaji,Assam,Dinner,3,4,6,85
+220,Kadhi Kachori,Rajastan,Breakfast,52,23,0,466
+221,Kalmi Vada,Rajastan,Breakfast,19,1,5,100
+222,Besan Chilla,Rajastan,Breakfast,35,8,13,232
+223,Mirchi Bada,Rajastan,Breakfast,17,6,5,142
+224,Bajra Roti,Rajastan,Breakfast,13,2,3,80
+225,Pyaaz Ki Kachori,Rajastan,Breakfast,8,5,2,83
+226,Laal maas,Rajastan,Lunch,17,37,35,541
+227,Baati,Rajastan,Lunch,19,3,4,116
+228,Kadhi,Rajastan,Lunch,3,10,1,110
+229,Aam ki Launji,Rajastan,Lunch,88,19,11,580
+230,Mohan Maas,Rajastan,Lunch,30,11,4,230
+231,Gatte,Rajastan,Lunch,53,20,21,480
+232,Jodhpuri Kabuli,Rajastan,Dinner,54,12,5,348
+233,Bajre Ki Roti,Rajastan,Dinner,35,5,5,170
+234,Chicken Banjara Curry,Rajastan,Dinner,50,5,16,306
+235,Bajra Ki Raab,Rajastan,Dinner,67,10,12,361
+236,Ker Sangari,Rajastan,Dinner,0,14,11,237
+237,Methi Bajra Puri,Rajastan,Dinner,54,34,7,594
+238,Dahi Vada,Haryana,Breakfast,28,21,11,334
+239,Alsi ki Pinni,Haryana,Breakfast,17,10,9,215
+240,Besan Masala Roti,Haryana,Breakfast,15,2,6,100
+241,Kadhi Pakora,Haryana,Breakfast,23,6,4,162
+242,Bajara Khichri,Haryana,Breakfast,19,5,5,140
+243,Malpua,Haryana,Breakfast,23,7,1,151
+244,Kachri ki Chutney,Haryana,Lunch,10,18,4,200
+245,Dahi Vada,Haryana,Lunch,28,21,11,334
+246,Rajma Chawal,Haryana,Lunch,43,3,9,235
+247,Mithe Chawal,Haryana,Lunch,40,32,14,496
+248,Bhura Roti Ghee,Haryana,Lunch,22,6,4,153
+249,Singri ki Sabzi,Haryana,Lunch,24,8,3,180
+250,Methi Gaajar,Haryana,Dinner,44,6,26,333
+251,Makhan Malai,Haryana,Dinner,8,47,47,654
+252,Aloo Chutney Pulao,Haryana,Dinner,54,12,5,348
+253,Mixed Dal,Haryana,Dinner,35,4,14,227
+254,Butter Chicken,Haryana,Dinner,14,23,23,355
+255,Bathua Raita,Haryana,Dinner,13,2,8,95
+256,Mutton Samosas,Hyderabad,Dinner,13,2,8,95
